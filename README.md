@@ -8,7 +8,7 @@
 - ⌨️ I use daily: `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Solana Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **development**, **Blockchain**
+- 💬 Ping me about **Development**, **Blockchain**
 - 📫 Reach me: [twitter.com/MrDonor_donnie](https://twitter.com/MrDonor_donnie)
 
 <details>
