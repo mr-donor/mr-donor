@@ -5,7 +5,8 @@
 ##### BIO
 
 - 💼 I'm currently working on the **Scallop.io** project in the Solana ecosystem
-- ⌨️ I use daily: `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
+- ⌨️ I use usually: `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
+- ⌨️ I use sometimes: `.py`, `.java`, `.sql`, `.c `, `.bat  `, `.net`, `.rb`
 - 🌍 I'm mostly active within the **Solana Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Blockchain**
