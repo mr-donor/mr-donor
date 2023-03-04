@@ -18,8 +18,9 @@
   
   <br />
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=mr-donor&show_icons=true&count_private=true&theme=vue&hide_border=true&bg_color=00000002&text_color=41b883)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=mr-donor&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=ffffff&text_color=ffffff#gh-dark-mode-only)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=mr-donor&show_icons=true&count_private=true&theme=swift&hide_border=true&bg_color=00000000&icon_color=000000&text_color=000000#gh-light-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-donor&layout=compact&hide_border=true&langs_count=6&theme=dark&bg_color=00000000&text_color=ffffff#gh-dark-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-donor&layout=compact&hide_border=true&langs_count=6&theme=swift&bg_color=00000000&text_color=000000#gh-dark-light-only)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-donor&layout=compact&hide_border=true&langs_count=6&theme=vue&bg_color=00000002&text_color=41b883)
-
 </details>
