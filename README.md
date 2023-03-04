@@ -1,13 +1,13 @@
 ### Hi there 👋🏻
 
-#### I'm a Full-Stack Developer working in Taiwan.
+#### I'm a Full-Stack Developer base in Taiwan.
 
 ##### BIO
 
-- 💼 I'm currently working on the **Scallop.io** project in the Solana ecosystem
-- ⌨️ I use usually: `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
-- 🖱️ I use sometimes: `.py`, `.java`, `.sql`, `.c `, `.bat  `, `.net`, `.rb`
-- 🌍 I'm mostly active within the **Solana Community**
+- 💼 I'm currently working on the **Scallop.io** project in the **Solana** and **Sui** ecosystem
+- ⌨️ I use usually: `move`, `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`
+- 🖱️ I use sometimes: `.py`, `.java`, `.sql`, `.c `, `.bat  `, `.net`, `.rb`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Solana** and **Sui** **Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Blockchain**
 - 📫 Reach me: [twitter.com/MrDonor_donnie](https://twitter.com/MrDonor_donnie)
