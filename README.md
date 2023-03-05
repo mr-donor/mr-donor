@@ -13,7 +13,7 @@
 - 📫 Reach me: [twitter.com/MrDonor_donnie](https://twitter.com/MrDonor_donnie)
 
 <details>
-<summary>💻 More about my coding life on Github</summary>
+<summary> 💻 More about my coding life on Github</summary>
 
 <picture>
 <source
