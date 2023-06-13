@@ -5,8 +5,8 @@
 ##### BIO
 
 - 💼 I'm currently working on the **Scallop.io** project in the **Solana** and **Sui** ecosystem
-- ⌨️ I use usually: `move`, `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`
-- 🖱️ I use sometimes: `.py`, `.java`, `.sql`, `.c `, `.bat  `, `.net`, `.rb`, `.psd`, `.ai`
+- ⌨️ I use usually: `.move`, `.rs`, `.php`, `.ts`, `.js`, `.html`, `.css`
+- 🖱️ I use sometimes: `.py`, `.java`, `.sql`, `.c `, `.bat  `, `.net`, `.rb`, `.scss`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Solana** and **Sui** **Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Blockchain**
