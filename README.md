@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-#### I'm a Full-Stack Developer base in Taiwan.
+#### I'm a Full-Stack/Blockchain Developer base in Taiwan.
 
 ##### BIO
 
@@ -10,7 +10,7 @@
 - 🌍 I'm mostly active within the **Solana** and **Sui** **Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Blockchain**
-- 📫 Reach me: [twitter.com/MrDonor_donnie](https://twitter.com/MrDonor_donnie)
+- 📫 Reach me: [https://x.com/donnie_sui](https://x.com/donnie_sui)
 
 <details>
 <summary> 💻 More about my coding life on Github</summary>
